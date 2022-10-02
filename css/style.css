@@ -1,0 +1,96 @@
+*{
+    margin: 0;
+}
+header{
+    overflow: hidden;
+}
+.home{
+    width: 20%;
+    height: 60px;
+    background-color: green;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.about{
+    width: 20%;
+    height: 60px;
+    background-color: green;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.site{
+    width: 20%;
+    height: 60px;
+    background-color: green;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.products{
+    width: 20%;
+    height: 60px;
+    background-color: green;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.contacts{
+    width: 20%;
+    height: 60px;
+    background-color: green;
+    color: white;
+    float: left;
+    text-align: center;
+}
+.banner{
+    background-color: darkslategrey;
+    height: 200px;
+    color: white;
+    text-align: center;
+    font-size: 80px;
+}
+.content{
+    overflow: hidden;
+}
+.left{
+    background-color: lightgreen;
+    height: 350px;
+    width: 25%;
+    float: left;
+}
+.middle{
+    background-color: white;
+    height: 350px;
+    width: 50%;
+    font-size: 50px;
+    text-align: center;
+    color: black;
+    float: left;
+}
+.right{
+    background-color: lightgreen;
+    height: 350px;
+    width: 25%;
+    float: left;
+}
+.top{
+    background-color: lightskyblue;
+    height: 33.3%;
+}
+.right_middle{
+    background-color: lightseagreen;
+    height: 33.3%;
+}
+.bottom{
+    background-color: lightblue;
+    height: 33.3%;
+}
+footer{
+    background-color: gray;
+    font-size: 30px;
+    height: 40px;
+    color: black;
+    text-align: center;
+}
